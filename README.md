@@ -5,7 +5,17 @@
 </h1>
 
 
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+</div>
 
+<br/>
+<hr/>
 
 <!--
 **Evgenia38/Evgenia38** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
