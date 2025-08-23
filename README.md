@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I am Evgenia!!! 👋
 
 <!--
 **Evgenia38/Evgenia38** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-🔭 I'm currently a Final Year Btech Student<br>🌱 I'm currently learning about MERN Stack Development<br>👯 Ask me about React Js, Frontend Development, Backend Development
+🔭 I'm currently a graduate of "Tel Ran" College<br>🌱 I'm currently learning about Stack Development<br>👯 Ask me about React Js, Frontend Development
 
 ## 🌐 Socials:
 
