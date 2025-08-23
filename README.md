@@ -3,17 +3,6 @@
 <!--
 **Evgenia38/Evgenia38** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 # 💫 About Me:
 🔭 I'm currently a graduate of "Tel Ran" College<br>🌱 I'm currently learning about Stack Development<br>
 
@@ -24,8 +13,8 @@ Here are some ideas to get you started:
 # 💻 Tech Stack - Tools:
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,mongodb,nodejs,expressjs,html,css,javascript,tailwindcss,firebase,nextjs" /><br>
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,bootstrap,vscode,git,github,redux,figma" /><br>
+    <img src="https://skillicons.dev/icons?i=react,html,css,javascript,tailwindcss," /><br>
+    <img src="https://skillicons.dev/icons?i=vscode,git,github,figma" /><br>
 </div><br>
 
 <div align="center" style="font-size: larger;">
