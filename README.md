@@ -6,15 +6,13 @@
 # 💫 About Me:
 🔭 I'm currently a graduate of "Tel Ran" College<br>🌱 I'm currently learning about Stack Development<br>
 
-## 🌐 Socials:
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/avijit.hira.332/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/avijit.hira.332) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avijit-hira-819a99258/) [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=LeetCode&logoColor=white)](https://leetcode.com/Avijit_Hira/) [![Email](https://img.shields.io/badge/Email-%23D14836.svg?logo=Gmail&logoColor=white)](mailto:avijithira55@gmail.com) [![Youtube](https://img.shields.io/badge/Youtube-%23E4405F.svg?logo=Youtube&logoColor=white)](https://www.youtube.com/@DevWaveDiaries)
 
 # 💻 Tech Stack - Tools:
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,html,css,javascript,tailwindcss," /><br>
-    <img src="https://skillicons.dev/icons?i=vscode,git,github,figma" /><br>
+    <img src="https://skillicons.dev/icons?i=vscode,git,github,figma," /><br>
 </div><br>
 
 <div align="center" style="font-size: larger;">
